@@ -40,27 +40,31 @@ Sorted values to prepare for visualization
 Used Matplotlib, Seaborn, and Plotly for interactive and static charts
 
 **Created:**
-Bar plots to show top 10 regions per year
 
-Line plots to track trends in overweight prevalence across years
+- Bar plots to show top 10 regions per year
 
-Heatmaps for quick regional comparisons
+- Line plots to track trends in overweight prevalence across years
+
+- Heatmaps for quick regional comparisons
 
 **Key Findings**
-Certain regions consistently rank high in overweight prevalence across multiple years
 
-Some regions show a steady increase over the decades, suggesting lifestyle changes and dietary shifts
+- Certain regions consistently rank high in overweight prevalence across multiple years
 
-Other regions remain relatively low, often due to different socio-economic and cultural factors
+- Some regions show a steady increase over the decades, suggesting lifestyle changes and dietary shifts
+
+- Other regions remain relatively low, often due to different socio-economic and cultural factors
 
 **Conclusion**
-The analysis reveals significant disparities in overweight prevalence between regions. Public health policies should be tailored regionally, focusing on prevention strategies where rates are rising rapidly. Future work could combine this dataset with GDP, diet, and urbanization data to better understand underlying causes.
+
+- The analysis reveals significant disparities in overweight prevalence between regions. Public health policies should be tailored regionally, focusing on prevention strategies where rates are rising rapidly. Future work could combine this dataset with GDP, diet, and urbanization data to better understand underlying causes.
 
 **Tools Used**
-Python — Core programming language
 
-Pandas — Data cleaning and analysis
+- Python — Core programming language
 
-Matplotlib / Seaborn / Plotly — Data visualization
+- Pandas — Data cleaning and analysis
 
-Jupyter Notebook — Interactive analysis environment
+- Matplotlib / Seaborn / Plotly — Data visualization
+
+- Jupyter Notebook — Interactive analysis environment
